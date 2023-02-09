@@ -16,7 +16,7 @@
 
 package main
 
-import "github.com/container-orchestrated-devices/container-device-interface/cmd/cdi/cmd"
+import "github.com/container-orchestrated-devices/cdi-tools/cmd/cdi/cmd"
 
 func main() {
 	cmd.Execute()
